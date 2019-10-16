@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_football" type="id"/>
+    <item name="img_fc" type="id"/>
+    <item name="txt_fc" type="id"/>
+    <item name="relative_layout" type="id"/>
+    <item name="imgDetail" type="id"/>
+    <item name="txtNameDetail" type="id"/>
+    <item name="txtDescDetail" type="id"/>
+</resources>
